@@ -1,2 +1,6 @@
-# simple-mobile-apps-web-introduction
-Mobile Apps 
+# Simple Web UI for Mobile Apps
+
+'''
+'git clone' to download file from github.
+
+'''
